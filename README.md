@@ -1,2 +1,2 @@
 # Manuscripts
-Papers and their datasets and analyses
+First author peer-reviewed manuscripts and their datasets and analyses
