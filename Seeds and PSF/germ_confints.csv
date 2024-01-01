@@ -1,0 +1,5 @@
+plant,treat,prob,lo,hi,dataset
+FesBra,Live,0.6,0.4617239,0.7282716,Germination probability
+FesBra,Sterile,0.54,0.4024531,0.673545,Germination probability
+TriSpi,Live,0.42,0.2897495,0.5582542,Germination probability
+TriSpi,Sterile,0.48,0.3451331,0.6168679,Germination probability
